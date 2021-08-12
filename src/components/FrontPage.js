@@ -24,7 +24,7 @@ export default class Frontpage extends Component {
                 <Link className="navbarItem" to="/contact">Contact</Link>
                     
                 </header>
-           <Switch>
+           {/* <Switch>
                <Route path="/" exact>
                    <Redirect to="/main"/>
                </Route>
@@ -37,7 +37,7 @@ export default class Frontpage extends Component {
                <Route path="**">
                    <Redirect to="/main"/>
                </Route>
-           </Switch>
+           </Switch> */}
             </Router>
         )
     }
