@@ -15,7 +15,7 @@ export default class Frontpage extends Component {
    
                 <a href={Resume} className="navbarItem" download="resume">Download Resume</a>
                 
-                <Link className="mainlink" to="/main">
+                <Link className="mainlink" to="/tr-portfolio">
                     <figure >
                         
                         <img className="logo" src={Logo} alt="ufologo"></img>
@@ -26,16 +26,16 @@ export default class Frontpage extends Component {
                 </header>
            <Switch>
                <Route path="/" exact>
-                   <Redirect to="/tr-portfolio/main"/>
+                   <Redirect to="/tr-portfolio"/>
                </Route>
-               <Route path="/tr-portfolio/main">
+               <Route path="/tr-portfolio">
             <Main></Main>
                </Route>
                <Route path="/tr-portfolio/contact">
             <Contact></Contact>
                </Route>
                <Route path="**">
-                   <Redirect to="/tr-portfolio/main"/>
+                   <Redirect to="/tr-portfolio"/>
                </Route>
            </Switch>
             </Router>
