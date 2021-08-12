@@ -15,20 +15,20 @@ export default class Frontpage extends Component {
    
                 <a href={Resume} className="navbarItem" download="resume">Download Resume</a>
                 
-                <Link className="mainlink" to="/tr-portfolio">
+                <Link className="mainlink" to="/main">
                     <figure >
                         
                         <img className="logo" src={Logo} alt="ufologo"></img>
                 </figure>
                 </Link>
-                <Link className="navbarItem" to="/tr-portfolio/contact">Contactado</Link>
+                <Link className="navbarItem" to="/tr-portfolio/contact">Contact</Link>
                     
                 </header>
            <Switch>
                <Route path="/" exact>
-                   <Redirect to="/tr-portfolio"/>
+                   <Redirect to="/tr-portfolio/main"/>
                </Route>
-               <Route path="/tr-portfolio">
+               <Route path="/tr-portfolio/main">
             <Main></Main>
                </Route>
                <Route path="/tr-portfolio/contact">
