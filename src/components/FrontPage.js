@@ -21,7 +21,7 @@ export default class Frontpage extends Component {
                         <img className="logo" src={Logo} alt="ufologo"></img>
                 </figure>
                 </Link>
-                <Link className="navbarItem" to="/contact">Contact</Link>
+                <Link className="navbarItem" to="/contact">Contahsaudihadct</Link>
                     
                 </header>
            {/* <Switch>
