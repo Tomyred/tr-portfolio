@@ -21,7 +21,7 @@ export default class Frontpage extends Component {
                         <img className="logo" src={Logo} alt="ufologo"></img>
                 </figure>
                 </Link>
-                <Link className="navbarItem" to="/contact">Contact</Link>
+                <Link className="navbarItem" to="/tr-portfolio/contact">Contactado</Link>
                     
                 </header>
            <Switch>
@@ -31,11 +31,11 @@ export default class Frontpage extends Component {
                <Route path="/tr-portfolio">
             <Main></Main>
                </Route>
-               <Route path="/contact">
+               <Route path="/tr-portfolio/contact">
             <Contact></Contact>
                </Route>
                <Route path="**">
-                   <Redirect to="/main"/>
+                   <Redirect to="/tr-portfolio/main"/>
                </Route>
            </Switch>
             </Router>
