@@ -15,29 +15,26 @@ export default class Frontpage extends Component {
    
                 <a href={Resume} className="navbarItem" download="resume">Download Resume</a>
                 
-                <Link className="mainlink" to="/main">
+                <Link className="mainlink" to="/">
                     <figure >
                         
                         <img className="logo" src={Logo} alt="ufologo"></img>
                 </figure>
                 </Link>
-                <Link className="navbarItem" to="/contact">Contahsaudihadct</Link>
+                <Link className="navbarItem" to="/contact">Contact</Link>
                     
                 </header>
-           {/* <Switch>
-               <Route path="/" exact>
-                   <Redirect to="/main"/>
-               </Route>
-               <Route path="/main">
+           <Switch>
+               <Route path="/">
             <Main></Main>
                </Route>
                <Route path="/contact">
             <Contact></Contact>
                </Route>
                <Route path="**">
-                   <Redirect to="/main"/>
+                   <Redirect to="/"/>
                </Route>
-           </Switch> */}
+           </Switch>
             </Router>
         )
     }
