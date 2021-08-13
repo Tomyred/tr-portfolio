@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import './Main.css';
+import Cardsprojects from '../cards-projects/cards-projects';
 
 export default class Main extends Component {
     render() {
@@ -27,6 +28,7 @@ export default class Main extends Component {
                 </div> 
             </div>
             </div>
+            <Cardsprojects></Cardsprojects>
             </div>
         )
     }

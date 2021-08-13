@@ -12,6 +12,7 @@
     margin-top: 1em;
     text-decoration: none;
     justify-content: flex-end;
+    color: #fff;
 }
 
 .navbarItem:hover{
