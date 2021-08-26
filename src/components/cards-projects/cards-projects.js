@@ -1,5 +1,6 @@
 import React from 'react'
 import media from '../../assets/images/media.png'
+import facebook from '../../assets/images/facebook.png'
 import './cards-projects.css'
 function cardsprojects() {
     return (
@@ -15,14 +16,14 @@ function cardsprojects() {
           <a href="">Take a look</a>
           </div>
           <div className="card">
-          <img src=""/>
-          <h4></h4>
-          <p></p>
+          <img src={facebook} alt="facebook"/>
+          <h4>Facebook clone</h4>
+          <p>A Facebook clone with characters of science fiction literature</p>
           <a href="">Take a look</a>
           </div>
           <div className="card">
           <img src=""/>
-          <h4></h4>
+          <h4>Dynamic Form for credit card</h4>
           <p></p>
           <a href="">Take a look</a>
           </div>

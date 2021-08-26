@@ -49,8 +49,9 @@
 }
 
 .card img{
-    width:330px;
+    
     height:230px;
+    align-items: center;
 }
 
 .card h4{
