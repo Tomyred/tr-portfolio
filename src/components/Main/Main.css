@@ -1,6 +1,3 @@
-div{
-    display: block;
-}
 .bigcontainer{
    
     max-width: 62.5em;
@@ -14,15 +11,12 @@ div{
 }
 
 .presentation{
-    margin-top: 5em;
-    margin-right: 5em;
+    margin: 3em 5em 3em 5em;
     background-color: rgba(0,0,0,0.8);
     border: grey solid;
     border-radius: 1em;
     padding: 1em;
     width: 18em;
-    float: left;
-    display: block;
 }
 
 .techContainer{
@@ -39,19 +33,10 @@ div{
     font-size: 1.2em;
 }
 
-.technologies{
-    float: right;
-    
-}
-
-
-
-
  .iconsContainer{  
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    
 } 
 
 .iconsContainer p{

@@ -1,16 +1,14 @@
-.all{
-    
-    display: grid;
-    grid-template-columns: auto auto;
-    
-    
+.contactpage{
+     display:flex;
+     flex-wrap: wrap;
+     margin-top: 2em;
+     justify-content: center;
 }
 
 .contactContainer{
     margin-left:1em;
-    display: inline-block;
     margin: 1em;
-    
+    width: 35em;
 }
 
 .contactHeader{
@@ -25,6 +23,7 @@
     margin-left: 0.2em;
     display: inline-block;
     
+    
 }
 
 .contactHeader h1::selection{
@@ -38,11 +37,13 @@
     padding:1em;
     margin-top: 1.5em;
     /* width: 30em; */
+    
 }
 
 .socialmediacontainer p{
     display: flex;
     align-items: center;
+    
 }
 .socialmediacontainer a{
     margin-left: 0.5em;
@@ -51,9 +52,7 @@
 
 #contactLogo{
     width: 3em; 
-    height: 3em;
-    display: inline-block;
-    
+    height: 3em;    
 }
 
 #advice{
@@ -62,15 +61,15 @@
     margin-top: 0.5em;
 }
 
-.aboutMe{
+.aboutMe{ 
     
     margin: 1em;
-    display:inline-block;
     background-color: rgba(0,0,0,0.8);
     border-radius: 1em;
     border: 5px rgba(137, 43, 226, 0.946) double ;
-    /* width:40%; */
+    width:40%; 
     padding:1em;
+   
 }
 
 .aboutMe img{
@@ -80,6 +79,6 @@
     
 }
 .aboutMe p{
-    display:inline-block;
+    
     margin-top: 1em;
 }
