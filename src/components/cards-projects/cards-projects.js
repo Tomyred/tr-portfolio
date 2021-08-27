@@ -25,7 +25,7 @@ function cardsprojects() {
           <div className="card">
           <img src={facebook} alt="facebook"/>
           <h4>Facebook clone</h4>
-          <p>A Facebook clone with characters of science fiction literature</p>
+          <p>A Facebook clone with Firebase Google Authentication and realtime Firestore DB</p>
           <a href="">Take a look</a>
           </div>
           
