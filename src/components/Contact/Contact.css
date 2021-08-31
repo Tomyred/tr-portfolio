@@ -62,14 +62,14 @@
 }
 
 .aboutMe{ 
-    
+    display: block;
     margin: 1em;
     background-color: rgba(0,0,0,0.8);
     border-radius: 1em;
     border: 5px rgba(137, 43, 226, 0.946) double ;
     width:40%; 
     padding:1em;
-   
+    /* overflow-y:scroll; */
 }
 
 .aboutMe img{

@@ -9,7 +9,7 @@ export default class Main extends Component {
             <div className="presentation">
             <h1>Hi! <br/> 
                 I´m
-                <strong> Tomás Rojo Junior Frontend Developer</strong> with great passion for learning and teamwork </h1>
+                <strong> Tomás Rojo MERN Developer</strong> with great passion for learning and teamwork </h1>
             </div>
             <div className="techContainer">
             <div className="technologies">
@@ -19,10 +19,9 @@ export default class Main extends Component {
                 <p>CSS3<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> </p>
                 <p>JavaScript<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/> </p>
                 <p>React<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react"/> </p>
-                <p>Angular<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular"/> </p>
+                <p>MongoDB<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="sass"></img></p>
                 <p>SQL<img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql"/> </p>
                 <p>Bootstrap <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"></img></p>
-                {/* <p>SASS<img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass"></img></p> */}
                 <p>Git <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/></p>
                 <p>Github <img src="https://img.icons8.com/color/48/000000/github.png" alt="github"/></p>
                 </div> 
