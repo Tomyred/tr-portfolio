@@ -21,8 +21,6 @@ export default class Contact extends Component {
                     </div>
                     </div>
                 <div className="aboutMe">
-                {/* <img src={picture} alt="tomirojo"></img> */}
-                
                     <h3>About Me</h3>
                     <p>Hello. My name is Tomás and if there is something I hate more than self-praise, it is falling into cliché or hackneyed phrases. However, this does not mean that something ceases to be true, therefore, it is with some discomfort that if I had to choose a word to describe myself it would be "passionate"; The passion and inclination to give my best covers every aspect of my life, from the simplest tasks, such as changing a light bulb or mounting a shelf, to more complex tasks such as programming. This passion is constantly fueled by the very nature of programming: a discipline where there is always something new to learn, where work alone constantly motivates you to want to improve.</p>
                     <p id="advice">To go back, click on the ufo</p>

@@ -1,5 +1,4 @@
 .bigcontainer{
-   
     max-width: 62.5em;
     min-width: 20em;
     margin: 0 auto;
@@ -51,4 +50,33 @@
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
+}
+
+@media screen and (max-width: 730px){
+    .iconsContainer{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .techContainer{
+        display: flex;
+    align-items: center;
+    text-align: center;
+    border: none;
+    
+    padding: 1em;
+    background-color: transparent;
+    }
+
+    .presentation{
+        margin-top: 5em;
+        background-color: transparent;
+        border: none;
+        border-radius: 1em;
+        padding: 0em;
+        width: 18em;
+        margin-bottom: 5em;
+        font-size: 15px;
+    }
+    
 }
