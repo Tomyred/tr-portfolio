@@ -2,7 +2,7 @@ import React from 'react'
 import media from '../../assets/images/media.png'
 import facebook from '../../assets/images/facebook.png'
 import cardForm from '../../assets/images/card-form.png'
-import darkMode from '../../assets/images/dark-mode.png'
+// import darkMode from '../../assets/images/dark-mode.png'
 import './cards-projects.css'
 
 function cardsprojects() {
@@ -23,12 +23,12 @@ function cardsprojects() {
           <p>A Facebook clone with Google Authentication and realtime Firestore DB. Leave a comment!</p>
           <a href="https://copybook-df803.web.app/">Take a look</a>
           </div>
-          <div className="card">
+          {/* <div className="card">
           <img src={darkMode} alt="dark-mode"/>
           <h4>Theme toggler</h4>
           <p>A simple page with dynamic theme change by clicking on the sun and the moon</p>
           <a href="https://tomyred.github.io/Dark-mode/">Take a look</a>
-          </div>
+          </div> */}
           <div className="card">
           <img src={media} alt="media"/>
           <h4>Media finder</h4>
