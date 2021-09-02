@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tr-portfolio/static/css/main.c159f6d5.chunk.css",
-    "main.js": "/tr-portfolio/static/js/main.44692e35.chunk.js",
-    "main.js.map": "/tr-portfolio/static/js/main.44692e35.chunk.js.map",
+    "main.js": "/tr-portfolio/static/js/main.14310b7b.chunk.js",
+    "main.js.map": "/tr-portfolio/static/js/main.14310b7b.chunk.js.map",
     "runtime-main.js": "/tr-portfolio/static/js/runtime-main.a9c7b492.js",
     "runtime-main.js.map": "/tr-portfolio/static/js/runtime-main.a9c7b492.js.map",
     "static/js/2.58ab6e6c.chunk.js": "/tr-portfolio/static/js/2.58ab6e6c.chunk.js",
@@ -14,7 +14,6 @@
     "static/js/2.58ab6e6c.chunk.js.LICENSE.txt": "/tr-portfolio/static/js/2.58ab6e6c.chunk.js.LICENSE.txt",
     "static/media/card-form.8ad14a9c.png": "/tr-portfolio/static/media/card-form.8ad14a9c.png",
     "static/media/contact.c1fb8da1.png": "/tr-portfolio/static/media/contact.c1fb8da1.png",
-    "static/media/dark-mode.54151e0e.png": "/tr-portfolio/static/media/dark-mode.54151e0e.png",
     "static/media/facebook.695d91a5.png": "/tr-portfolio/static/media/facebook.695d91a5.png",
     "static/media/media.4d070dbc.png": "/tr-portfolio/static/media/media.4d070dbc.png",
     "static/media/resume.0488635e.pdf": "/tr-portfolio/static/media/resume.0488635e.pdf",
@@ -24,6 +23,6 @@
     "static/js/runtime-main.a9c7b492.js",
     "static/js/2.58ab6e6c.chunk.js",
     "static/css/main.c159f6d5.chunk.css",
-    "static/js/main.44692e35.chunk.js"
+    "static/js/main.14310b7b.chunk.js"
   ]
 }
