@@ -1,6 +1,7 @@
 import './App.css';
 import ParticleBackground from './assets/Particle/ParticleBackground';
-import Frontpage from './components/FrontPage';
+import { FrontPage } from './components/FrontPage';
+
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
       <ParticleBackground/>
       </div>
       <div className="frontpage">
-      <Frontpage/>
+      <FrontPage/>
       </div>
     </div>
   );

@@ -23,17 +23,10 @@
     height: 3em;
 }
 
-.logo:hover{
-background-color: rgb(138, 43, 226);
-border:  rgb(60, 13, 104) double 5px ;
-border-radius: 50%;
-/* background-image: url(./../assets/images/backgroud-icon.png); */
+.logoBg{
+    width: 3em; 
+    height: 3em;
 }
 
-@media screen and (max-width: 730px){
-    .logo:hover{
-        background-color: transparent;
-        border:  none;
-        }
-}
+
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import media from '../../assets/images/media.png'
+// import media from '../../assets/images/media.png'
 import facebook from '../../assets/images/facebook.png'
 import cardForm from '../../assets/images/card-form.png'
 // import darkMode from '../../assets/images/dark-mode.png'
@@ -13,7 +13,7 @@ function cardsprojects() {
             <div className="cards-container">
             <div className="card">
           <img src={cardForm} alt="dynamic-card-form"/>
-          <h4>Dynamic Form for credit card</h4>
+          <h4>Credit card form</h4>
           <p>A dynamic card form with 3d animations that can be used for e-commerce</p>
           <a href="https://tomyred.github.io/dinamic-card-form/">Take a look</a>
           </div>
@@ -29,13 +29,13 @@ function cardsprojects() {
           <p>A simple page with dynamic theme change by clicking on the sun and the moon</p>
           <a href="https://tomyred.github.io/Dark-mode/">Take a look</a>
           </div> */}
-          <div className="card">
+          {/* <div className="card">
           <img src={media} alt="media"/>
           <h4>Media finder</h4>
-          <p>A multimedia content search engine</p>
-          <br></br>
+          <p>A multimedia content search engine (movies, shows, books, etc)</p>
+          
           <a href="https://media-finder-75b62.web.app/">Take a look</a>
-          </div>
+          </div> */}
           </div>
         </div>
     )
