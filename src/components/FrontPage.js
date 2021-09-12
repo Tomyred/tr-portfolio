@@ -21,7 +21,6 @@ export const FrontPage = () => {
         }else{
         setLogo(ufoLogo)
         }
-        
     }
 
     return (

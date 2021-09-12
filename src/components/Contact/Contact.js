@@ -16,8 +16,9 @@ export default class Contact extends Component {
                     <div className="socialmediacontainer">
                     <p>Contact me directly</p>
                     <p><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail"/> Email: tom.roj.laboral@gmail.com </p>
-                    <p> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="lindedin"/> LinkedIn: <a href="https://linkedin.com/in/tomás-rojo-38743a214" target="_blank" rel="noreferrer">https://linkedin.com/in/tomás-rojo-38743a214</a> 
-                    </p>
+                    <p> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin"/> LinkedIn: <a href="https://linkedin.com/in/tomás-rojo-38743a214" target="_blank" rel="noreferrer">https://linkedin.com/in/tomás-rojo-38743a214</a></p>
+                    <p> <img src="https://img.icons8.com/color/48/000000/github.png" alt="github"/> GitHub: <a href="https://github.com/Tomyred" target="_blank" rel="noreferrer">https://github.com/Tomyred</a></p>
+                    
                     </div>
                     </div>
                 <div className="aboutMe">
