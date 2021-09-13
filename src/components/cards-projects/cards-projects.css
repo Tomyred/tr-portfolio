@@ -10,8 +10,9 @@
     justify-content: center;
 }
 
-.component-container p{
-    color: rgba(166, 103, 224, 0.946);
+.component-container>p{
+    color: rgba(137, 43, 226, 0.946);
+    display: inline;
 }
 
 .component-container p::selection{
@@ -20,6 +21,7 @@
 
 .component-container h2{
    color: rgba(137, 43, 226, 0.946);
+   display: inline;
  }
 
 .component-container h2::selection{
