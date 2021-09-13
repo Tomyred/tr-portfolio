@@ -5,6 +5,7 @@ import Cardsprojects from '../cards-projects/cards-projects';
 export default class Main extends Component {
     render() {
         return (
+            <div className='componentContainer'>
             <div className="bigcontainer">
             <div className="presentation">
             <h1>Hi! <br/> 
@@ -27,7 +28,8 @@ export default class Main extends Component {
                 </div> 
             </div>
             </div>
-            <Cardsprojects></Cardsprojects>
+            </div>
+            <Cardsprojects/>
             </div>
         )
     }

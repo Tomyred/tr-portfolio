@@ -2,7 +2,7 @@ import React from 'react'
 import media from '../../assets/images/media.png'
 import facebook from '../../assets/images/facebook.png'
 import cardForm from '../../assets/images/card-form.png'
-//import darkMode from '../../assets/images/dark-mode.png'
+import crypto from '../../assets/images/crypto.png'
 import './cards-projects.css'
 
 function cardsprojects() {
@@ -28,13 +28,13 @@ function cardsprojects() {
             <p className="description">A Facebook clone with Google Authentication and realtime Firestore DB. Leave a comment!</p>
             </a>
           </div>
-{/* 
+
           <div className="card">
-          <a href="https://tomyred.github.io/Dark-mode/" target="_blank" rel="noreferrer"><img src={darkMode} alt="dark-mode"/>
-          <h4>Theme toggler</h4>
-          <p>A simple page with dynamic theme change by clicking on the sun and the moon</p>
+          <a href="https://affectionate-bell-7e3879.netlify.app/" target="_blank" rel="noreferrer"><img src={crypto} alt="crypto"/>
+          <h4>Cryptocurrency prices</h4>
+          <p>Bootstrap interface of current cryptocurrency prices using the Coingecko api</p>
           </a>
-          </div> */}
+          </div> 
 
           <div className="card">
           <a href="https://youthful-yonath-701a94.netlify.app/" target="_blank" rel="noreferrer"><img src={media} alt="media"/>
