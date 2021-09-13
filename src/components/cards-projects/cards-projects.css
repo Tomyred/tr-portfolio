@@ -1,4 +1,5 @@
 .component-container{
+    
     margin-top: 75px;
     margin-bottom: 50px;
     background-color: rgba(0,0,0,0.8);
@@ -7,6 +8,14 @@
     border: grey solid;
     border-radius: 1em;
     justify-content: center;
+}
+
+.component-container p{
+    color: rgba(166, 103, 224, 0.946);
+}
+
+.component-container p::selection{
+    color: #080808;
 }
 
 .component-container h2{
