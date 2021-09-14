@@ -35,7 +35,6 @@
     border-radius: 1em;
     padding:1em;
     margin-top: 1.5em;
-    /* width: 30em; */
     
 }
 
@@ -90,11 +89,14 @@
     .aboutMe{ 
         display: block;
         margin: 0em;
-        background-color: rgba(0,0,0,0.8);
-        border-radius: 1em;
-        border: 5px rgba(137, 43, 226, 0.946) double ;
+        background-color: transparent;
+        border: none;
         width:100%; 
         padding:1em;
+    }
+    .socialmediacontainer{
+        border: none;
+        background-color: transparent;
     }
 }
 

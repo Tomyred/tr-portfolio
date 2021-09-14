@@ -10,8 +10,10 @@ export default class Main extends Component {
             <div className="presentation">
             <h1>Hi! <br/> 
                 I´m
-                <strong> Tomás Rojo MERN Stack Developer</strong> with great passion for learning and teamwork </h1>
+                <strong> Tomás Rojo MERN Stack Developer</strong> with great passion for learning. <br/>
+                Take a look to some of my <a href="#cards">Projects!</a> </h1>
             </div>
+            <span></span>
             <div className="techContainer">
             <div className="technologies">
                 <p id="title">Technologies i work with</p>

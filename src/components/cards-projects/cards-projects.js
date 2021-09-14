@@ -7,7 +7,7 @@ import './cards-projects.css'
 
 function cardsprojects() {
     return (
-        <div className="component-container">
+        <div className="component-container" id='cards'>
             <h2>Some of my projects</h2>
             <p> (More in GitHub repository)</p>
             <hr></hr>

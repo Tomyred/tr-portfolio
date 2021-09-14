@@ -27,10 +27,10 @@
     display: flex;
     align-items: center;
     text-align: center;
-    border: grey solid;
+    /* border: grey solid;
     border-radius: 1em;
     padding: 1em;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0,0,0,0.8); */
 }
 
 #title{
