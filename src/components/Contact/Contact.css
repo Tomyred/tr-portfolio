@@ -1,20 +1,11 @@
-.contactpage{
-     display:flex;
-     flex-wrap: wrap;
-     margin-top: 2em;
-     justify-content: center;
-}
-
 .contactContainer{
-    margin-left:1em;
-    margin: 1em;
-    width: 35em;
+    display: block;
+    text-align: center;
 }
 
 .contactHeader{
     margin-left: 1em;  
     display: flex;
-    align-items: center;
     
 }
 
@@ -31,11 +22,8 @@
 
 .socialmediacontainer{
     background-color: rgba(0,0,0,0.8);
-    border: grey solid;
-    border-radius: 1em;
     padding:1em;
-    margin-top: 1.5em;
-    
+    margin-top: 1.5em;  
 }
 
 .socialmediacontainer p{
@@ -72,6 +60,11 @@
     margin-top: 1em;
 }
 
+.mediaLinks{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
 @media only screen and (max-width: 1000px){
     .aboutMe{ 
         display: block;
@@ -85,18 +78,18 @@
     }
 }
 
-@media only screen and (max-width: 650px){
-    .aboutMe{ 
-        display: block;
-        margin: 0em;
-        background-color: transparent;
-        border: none;
-        width:100%; 
-        padding:1em;
+@media only screen and (max-width: 800px){
+    .mediaLinks{
+        display: flex;
+        flex-wrap: wrap;
+        
+        
     }
-    .socialmediacontainer{
-        border: none;
-        background-color: transparent;
+}
+
+@media only screen and (max-width: 600px){
+    .mediaLinks{
+        font-size: 10px;  
     }
 }
 

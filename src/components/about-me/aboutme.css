@@ -1,0 +1,71 @@
+.aboutMeContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.aboutMe-top{
+  display: flex;
+}
+
+.buttons{
+width:100%
+}
+
+.buttons button{
+    width: 49%;
+    height:50px;
+    background-color: #151320;
+    border: none;
+    margin: 1px;
+}
+
+.buttons button:active{
+   background-color: rgba(51, 17, 83, 0.946);
+}
+
+.aboutMe{ 
+    margin: 1em;
+    background-color: rgba(0,0,0,0.8);
+    border-radius: 1em;
+    border: 5px rgba(51, 17, 83, 0.946) double;
+    width:40%; 
+    padding:1em;   
+}
+.photo {
+    width: 10em;
+    border-radius: 50%;
+    margin: 1em;
+    display: inline;
+}
+.description{
+    display:block;
+    margin-top: 0;
+}
+
+.advice{
+    font-size: 0.7em;
+    margin-top: 0.5em;
+    text-align: end;
+}
+
+@media only screen and (max-width: 1000px){
+    .aboutMeContainer {
+        display: block;
+        justify-content: center;
+    }
+    .aboutMe{
+        width: auto;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .buttons button{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    .aboutMeContainer {
+        font-size: 11px;
+    }
+}

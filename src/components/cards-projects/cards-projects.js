@@ -4,9 +4,11 @@ import facebook from '../../assets/images/facebook.png'
 import cardForm from '../../assets/images/card-form.png'
 import crypto from '../../assets/images/crypto.png'
 import './cards-projects.css'
+import Contact from '../Contact/Contact'
 
 function cardsprojects() {
     return (
+      <div>
         <div className="component-container" id='cards'>
             <h2>Some of my projects</h2>
             <p> (More in GitHub repository)</p>
@@ -43,6 +45,8 @@ function cardsprojects() {
           </a>
           </div>
           </div>
+        </div>
+        <Contact/>
         </div>
     )
 }
