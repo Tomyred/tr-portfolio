@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/tr-portfolio/static/css/main.b948ff26.chunk.css",
-    "main.js": "/tr-portfolio/static/js/main.c1241f8b.chunk.js",
-    "main.js.map": "/tr-portfolio/static/js/main.c1241f8b.chunk.js.map",
-    "runtime-main.js": "/tr-portfolio/static/js/runtime-main.ed4a89a7.js",
-    "runtime-main.js.map": "/tr-portfolio/static/js/runtime-main.ed4a89a7.js.map",
-    "static/js/2.c5b7b9ce.chunk.js": "/tr-portfolio/static/js/2.c5b7b9ce.chunk.js",
-    "static/js/2.c5b7b9ce.chunk.js.map": "/tr-portfolio/static/js/2.c5b7b9ce.chunk.js.map",
-    "static/js/3.b8188422.chunk.js": "/tr-portfolio/static/js/3.b8188422.chunk.js",
-    "static/js/3.b8188422.chunk.js.map": "/tr-portfolio/static/js/3.b8188422.chunk.js.map",
+    "main.css": "/tr-portfolio/static/css/main.edab33f9.chunk.css",
+    "main.js": "/tr-portfolio/static/js/main.3124b1a0.chunk.js",
+    "main.js.map": "/tr-portfolio/static/js/main.3124b1a0.chunk.js.map",
+    "runtime-main.js": "/tr-portfolio/static/js/runtime-main.c008b47f.js",
+    "runtime-main.js.map": "/tr-portfolio/static/js/runtime-main.c008b47f.js.map",
+    "static/js/2.5c66a257.chunk.js": "/tr-portfolio/static/js/2.5c66a257.chunk.js",
+    "static/js/2.5c66a257.chunk.js.map": "/tr-portfolio/static/js/2.5c66a257.chunk.js.map",
+    "static/js/3.807e2f09.chunk.js": "/tr-portfolio/static/js/3.807e2f09.chunk.js",
+    "static/js/3.807e2f09.chunk.js.map": "/tr-portfolio/static/js/3.807e2f09.chunk.js.map",
     "index.html": "/tr-portfolio/index.html",
-    "static/css/main.b948ff26.chunk.css.map": "/tr-portfolio/static/css/main.b948ff26.chunk.css.map",
-    "static/js/2.c5b7b9ce.chunk.js.LICENSE.txt": "/tr-portfolio/static/js/2.c5b7b9ce.chunk.js.LICENSE.txt",
+    "static/css/main.edab33f9.chunk.css.map": "/tr-portfolio/static/css/main.edab33f9.chunk.css.map",
+    "static/js/2.5c66a257.chunk.js.LICENSE.txt": "/tr-portfolio/static/js/2.5c66a257.chunk.js.LICENSE.txt",
     "static/media/card-form.8ad14a9c.png": "/tr-portfolio/static/media/card-form.8ad14a9c.png",
     "static/media/contact.c1fb8da1.png": "/tr-portfolio/static/media/contact.c1fb8da1.png",
     "static/media/crypto.17e3ae58.png": "/tr-portfolio/static/media/crypto.17e3ae58.png",
     "static/media/facebook.695d91a5.png": "/tr-portfolio/static/media/facebook.695d91a5.png",
     "static/media/media.4d070dbc.png": "/tr-portfolio/static/media/media.4d070dbc.png",
+    "static/media/photo.67940df3.jpg": "/tr-portfolio/static/media/photo.67940df3.jpg",
     "static/media/resume.6f31846c.pdf": "/tr-portfolio/static/media/resume.6f31846c.pdf",
     "static/media/ufoLogo.21d991ca.png": "/tr-portfolio/static/media/ufoLogo.21d991ca.png",
     "static/media/ufoLogoBg.f1b05a77.png": "/tr-portfolio/static/media/ufoLogoBg.f1b05a77.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed4a89a7.js",
-    "static/js/2.c5b7b9ce.chunk.js",
-    "static/css/main.b948ff26.chunk.css",
-    "static/js/main.c1241f8b.chunk.js"
+    "static/js/runtime-main.c008b47f.js",
+    "static/js/2.5c66a257.chunk.js",
+    "static/css/main.edab33f9.chunk.css",
+    "static/js/main.3124b1a0.chunk.js"
   ]
 }
