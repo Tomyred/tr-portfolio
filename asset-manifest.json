@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/tr-portfolio/static/css/main.edab33f9.chunk.css",
-    "main.js": "/tr-portfolio/static/js/main.3124b1a0.chunk.js",
-    "main.js.map": "/tr-portfolio/static/js/main.3124b1a0.chunk.js.map",
-    "runtime-main.js": "/tr-portfolio/static/js/runtime-main.c008b47f.js",
-    "runtime-main.js.map": "/tr-portfolio/static/js/runtime-main.c008b47f.js.map",
-    "static/js/2.5c66a257.chunk.js": "/tr-portfolio/static/js/2.5c66a257.chunk.js",
-    "static/js/2.5c66a257.chunk.js.map": "/tr-portfolio/static/js/2.5c66a257.chunk.js.map",
-    "static/js/3.807e2f09.chunk.js": "/tr-portfolio/static/js/3.807e2f09.chunk.js",
-    "static/js/3.807e2f09.chunk.js.map": "/tr-portfolio/static/js/3.807e2f09.chunk.js.map",
+    "main.js": "/tr-portfolio/static/js/main.055764a1.chunk.js",
+    "main.js.map": "/tr-portfolio/static/js/main.055764a1.chunk.js.map",
+    "runtime-main.js": "/tr-portfolio/static/js/runtime-main.fbb1303d.js",
+    "runtime-main.js.map": "/tr-portfolio/static/js/runtime-main.fbb1303d.js.map",
+    "static/js/2.ad1f8328.chunk.js": "/tr-portfolio/static/js/2.ad1f8328.chunk.js",
+    "static/js/2.ad1f8328.chunk.js.map": "/tr-portfolio/static/js/2.ad1f8328.chunk.js.map",
+    "static/js/3.89028cf0.chunk.js": "/tr-portfolio/static/js/3.89028cf0.chunk.js",
+    "static/js/3.89028cf0.chunk.js.map": "/tr-portfolio/static/js/3.89028cf0.chunk.js.map",
     "index.html": "/tr-portfolio/index.html",
     "static/css/main.edab33f9.chunk.css.map": "/tr-portfolio/static/css/main.edab33f9.chunk.css.map",
-    "static/js/2.5c66a257.chunk.js.LICENSE.txt": "/tr-portfolio/static/js/2.5c66a257.chunk.js.LICENSE.txt",
+    "static/js/2.ad1f8328.chunk.js.LICENSE.txt": "/tr-portfolio/static/js/2.ad1f8328.chunk.js.LICENSE.txt",
     "static/media/card-form.8ad14a9c.png": "/tr-portfolio/static/media/card-form.8ad14a9c.png",
     "static/media/contact.c1fb8da1.png": "/tr-portfolio/static/media/contact.c1fb8da1.png",
     "static/media/crypto.17e3ae58.png": "/tr-portfolio/static/media/crypto.17e3ae58.png",
@@ -23,9 +23,9 @@
     "static/media/ufoLogoBg.f1b05a77.png": "/tr-portfolio/static/media/ufoLogoBg.f1b05a77.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c008b47f.js",
-    "static/js/2.5c66a257.chunk.js",
+    "static/js/runtime-main.fbb1303d.js",
+    "static/js/2.ad1f8328.chunk.js",
     "static/css/main.edab33f9.chunk.css",
-    "static/js/main.3124b1a0.chunk.js"
+    "static/js/main.055764a1.chunk.js"
   ]
 }
