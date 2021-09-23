@@ -1,6 +1,6 @@
 .navbar{
     display: flex;
-    background: linear-gradient(rgba(51, 17, 83, 0.946), transparent);
+    background: linear-gradient(#000, transparent);
     color: #fff;
     width: 100%;
     height: 4.37em;
