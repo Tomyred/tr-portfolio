@@ -11,8 +11,6 @@ function cardsprojects() {
       <div>
         <div className="component-container" id='cards'>
             <h2>Some of my projects</h2>
-            <p> (More in GitHub repository)</p>
-            <hr></hr>
             <div className="cards-container">
 
             <div className="card">

@@ -1,18 +1,18 @@
-.contactContainer{
-    display: block;
-    text-align: center;
+.socialmediacontainer{
+    background-color: rgba(0,0,0,0.8);
+    padding:1em;
+    margin-top: 1.5em;
 }
-
 .contactHeader{
     margin-left: 1em;  
     display: flex;
-    
+    justify-content: center;
 }
 
 .contactHeader h1{
     color: rgba(137, 43, 226, 0.946);
     margin-left: 0.2em;
-    display: inline-block;
+    display: inline;
     
 }
 
@@ -20,16 +20,9 @@
     color: #080808
 }
 
-.socialmediacontainer{
-    background-color: rgba(0,0,0,0.8);
-    padding:1em;
-    margin-top: 1.5em;  
-}
-
 .socialmediacontainer p{
     display: flex;
     align-items: center;
-    
 }
 .socialmediacontainer a{
     margin-left: 0.5em;
@@ -39,12 +32,6 @@
 #contactLogo{
     width: 3em; 
     height: 3em;    
-}
-
-#advice{
-    font-size: 0.7em;
-    float:right;
-    margin-top: 0.5em;
 }
 
 .aboutMe{ 
@@ -59,37 +46,34 @@
 .aboutMe p{
     margin-top: 1em;
 }
-
 .mediaLinks{
-    display: grid;
-    grid-template-columns: auto auto;
+    font-size: 15px;
+  
+   
+}
+.linksTop{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+   
 }
 
-@media only screen and (max-width: 1000px){
-    .aboutMe{ 
-        display: block;
-        margin-left: 10em;
-        margin-right: 10em;
-        background-color: rgba(0,0,0,0.8);
-        border-radius: 1em;
-        border: 5px rgba(137, 43, 226, 0.946) double ;
-        width:100%; 
-        padding:1em;
-    }
+.linksBottom{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
 }
+
 
 @media only screen and (max-width: 800px){
-    .mediaLinks{
-        display: flex;
-        flex-wrap: wrap;
-        
-        
+    .linksTop{
+        display: block;
+        font-size: 12px;
     }
-}
-
-@media only screen and (max-width: 600px){
-    .mediaLinks{
-        font-size: 10px;  
+    
+    .linksBottom{
+        display: block;
+        font-size: 12px;
     }
 }
 
