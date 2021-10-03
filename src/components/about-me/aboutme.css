@@ -8,11 +8,12 @@
 }
 
 .buttons{
-width:100%
+    width:100%;
+    margin-top: 20px;
 }
 
 .buttons button{
-    width: 49%;
+    width: 100%;
     height:50px;
     background-color: #151320;
     border: none;
@@ -42,7 +43,7 @@ width:100%
     margin-top: 0;
 }
 
-.advice{
+#advice{
     font-size: 0.7em;
     margin-top: 0.5em;
     text-align: end;

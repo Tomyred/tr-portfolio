@@ -3,17 +3,19 @@ import media from '../../assets/images/media.png'
 import facebook from '../../assets/images/facebook.png'
 import cardForm from '../../assets/images/card-form.png'
 import crypto from '../../assets/images/crypto.png'
+import darkMode from '../../assets/images/dark-mode.png'
 import './cards-projects.css'
 import Contact from '../Contact/Contact'
 
 function cardsprojects() {
+  
     return (
       <div>
         <div className="component-container" id='cards'>
             <h2>Some of my projects</h2>
             <div className="cards-container">
 
-            <div className="card">
+          <div className="card">
             <a href="https://tomyred.github.io/dinamic-card-form/" target="_blank" rel="noreferrer"> 
             <img src={cardForm} alt="dynamic-card-form"/>
             <h4>Credit card form</h4>
@@ -25,7 +27,15 @@ function cardsprojects() {
             <a href="https://copybook-df803.web.app/" target="_blank" rel="noreferrer">  
             <img src={facebook} alt="facebook"/>
             <h4>Facebook clone</h4>
-            <p className="description">A Facebook clone with Google Authentication and realtime Firestore DB. Leave a comment!</p>
+            <p className="description">(Deprecated) A Facebook clone with Google Authentication and realtime Firestore DB. Leave a comment!</p>
+            </a>
+          </div>
+
+          <div className="card">
+            <a href="https://tomyred.github.io/Dark-mode/" target="_blank" rel="noreferrer">  
+            <img src={darkMode} alt="facebook"/>
+            <h4>Dark-Mode</h4>
+            <p className="description">A simple theme to toggle by clicking on the sun and the moon.</p>
             </a>
           </div>
 
