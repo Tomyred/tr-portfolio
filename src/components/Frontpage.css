@@ -1,32 +1,36 @@
-.navbar{
-    display: flex;
-    background: linear-gradient(#000, transparent);
-    color: #fff;
-    width: 100%;
-    height: 4.37em;
-    justify-content: space-evenly;
+.navbar {
+  display: flex;
+  background: linear-gradient(#000, transparent);
+  color: #fff;
+  width: 100%;
+  height: 5em;
+  justify-content: space-evenly;
+  font-size: 20px;
 }
 
-.navbarItem{
-    margin-top: 1em;
-    text-decoration: none;
-    justify-content: center;
-    color: #fff;
+.navbarItem {
+  margin-top: 1em;
+  text-decoration: none;
+  justify-content: center;
+  color: #fff;
 }
 
-.navbarItem:hover{
-    color:rgb(33, 175, 20);
+.navbarItem:hover {
+  color: rgb(33, 175, 20);
 }
 
-.logo{
-    width: 3em; 
-    height: 3em;
+.logo {
+  width: 3em;
+  height: 3em;
 }
 
-.logoBg{
-    width: 3em; 
-    height: 3em;
+.logoBg {
+  width: 3em;
+  height: 3em;
 }
 
-
-
+@media screen and (max-width: 1400px) {
+  .navbar {
+    font-size: 15px;
+  }
+}

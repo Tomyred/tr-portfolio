@@ -1,112 +1,115 @@
-.componentContainer{
-    min-height: 100vh; 
-    
+.componentContainer {
+  min-height: 100vh;
+  font-size: 18px;
 }
-.bigcontainer{
-    max-width: 62.5em;
-    min-width: 20em;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    height: inherit;
-    flex-wrap: wrap;
-    min-height: 80vh;
-}
-
-.presentation{
-    margin: 3em 5em 3em 5em;
-    background-color: rgba(0,0,0,0.8);
-    border: grey solid;
-    border-radius: 1em;
-    padding: 1em;
-    width: 18em;
+.bigcontainer {
+  max-width: 62.5em;
+  min-width: 20em;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: inherit;
+  flex-wrap: wrap;
+  min-height: 80vh;
 }
 
-.techContainer{
-    display: flex;
-    align-items: center;
-    text-align: center;
-    /* border: grey solid;
+.presentation {
+  margin: 3em 5em 3em 5em;
+  background-color: rgba(0, 0, 0, 0.8);
+  border: grey solid;
+  border-radius: 1em;
+  padding: 1em;
+  width: 18em;
+}
+
+.techContainer {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  /* border: grey solid;
     border-radius: 1em;
     padding: 1em;
     background-color: rgba(0,0,0,0.8); */
 }
 
-#title{
-    font-size: 1.2em;
+#title {
+  font-size: 1.2em;
 }
 
- .iconsContainer{  
+.iconsContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.iconsContainer p {
+  font-size: 1em;
+  padding: 0.5em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+@media screen and (max-width: 1400px) {
+  .componentContainer {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .presentation {
+    font-size: 13px;
+  }
+  .techContainer {
+    font-size: 9px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .iconsContainer {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
-} 
+  }
 
-.iconsContainer p{
-    font-size: 1em;
-    padding: 0.5em;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-}
-
-    @media screen and (max-width: 1000px){
-        .presentation{
-            font-size: 13px;
-            }
-        .techContainer{
-            font-size: 9px;
-        }
-    }
-
-@media screen and (max-width: 720px){
-    .iconsContainer{
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: repeat(2, 1fr);
-    }
-
-    .techContainer{
+  .techContainer {
     display: flex;
     align-items: center;
     text-align: center;
     border: none;
     padding: 1em;
     background-color: transparent;
-    }
+  }
 
-    .presentation{
-        margin-top: 2em;
-        margin-bottom: 2em;
-        background-color: transparent;
-        border: none;
-        border-radius: 1em;
-        padding: 0em;
-        width: 18em;
-        font-size: 15px;
-    }
-    
+  .presentation {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background-color: transparent;
+    border: none;
+    border-radius: 1em;
+    padding: 0em;
+    width: 18em;
+    font-size: 15px;
+  }
 }
 
-@media screen and (max-width: 550px){
-    .presentation{
-        font-size: 12px;
-        margin-top: 2em;
-        margin-bottom: 3em;
-    }
-    .techContainer{
-        font-size: 9px;
-    }
-    .iconsContainer{  
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: repeat(2, 1fr);
-    } 
+@media screen and (max-width: 550px) {
+  .presentation {
+    font-size: 12px;
+    margin-top: 2em;
+    margin-bottom: 3em;
+  }
+  .techContainer {
+    font-size: 9px;
+  }
+  .iconsContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
 }
