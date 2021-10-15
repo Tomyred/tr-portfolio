@@ -88,6 +88,7 @@ function cardsprojects() {
           </div>
         </div>
       </div>
+      <hr />
       <Contact />
     </div>
   );
