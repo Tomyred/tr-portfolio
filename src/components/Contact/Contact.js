@@ -13,7 +13,7 @@ export default class Contact extends Component {
         </div>
         <div className="mediaLinks">
           <a
-            href="www.linkedin.com/in/tomás-rojo-38743a214"
+            href="https://www.linkedin.com/in/tomás-rojo-38743a214"
             target="_blank"
             rel="noreferrer"
           >
