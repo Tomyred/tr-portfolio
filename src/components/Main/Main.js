@@ -11,7 +11,7 @@ export default class Main extends Component {
             <h1>
               Hi! <br />
               I´m
-              <strong> Tomás Rojo MERN Stack Developer</strong> with great
+              <strong> Tomás Rojo (@Tred) MERN Stack Developer</strong> with great
               passion for learning. <br />
               Take a look to some of my <a href="#cards">Projects!</a>{" "}
             </h1>

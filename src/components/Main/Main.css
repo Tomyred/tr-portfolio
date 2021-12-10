@@ -15,12 +15,13 @@
 }
 
 .presentation {
-  margin: 3em 5em 3em 5em;
+  /* margin: 3em 5em 3em 5em; */
   background-color: rgba(0, 0, 0, 0.8);
   border: grey solid;
   border-radius: 1em;
   padding: 1em;
   width: 18em;
+  display: block;
 }
 
 .techContainer {
@@ -93,7 +94,7 @@
     border: none;
     border-radius: 1em;
     padding: 0em;
-    width: 18em;
+    /* width: 18em; */
     font-size: 15px;
   }
 }
