@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tr-portfolio/static/css/main.c24e24c8.chunk.css",
-    "main.js": "/tr-portfolio/static/js/main.cdba3992.chunk.js",
-    "main.js.map": "/tr-portfolio/static/js/main.cdba3992.chunk.js.map",
+    "main.css": "/tr-portfolio/static/css/main.67ff4acc.chunk.css",
+    "main.js": "/tr-portfolio/static/js/main.bb2caf4d.chunk.js",
+    "main.js.map": "/tr-portfolio/static/js/main.bb2caf4d.chunk.js.map",
     "runtime-main.js": "/tr-portfolio/static/js/runtime-main.fbb1303d.js",
     "runtime-main.js.map": "/tr-portfolio/static/js/runtime-main.fbb1303d.js.map",
-    "static/js/2.042ca243.chunk.js": "/tr-portfolio/static/js/2.042ca243.chunk.js",
-    "static/js/2.042ca243.chunk.js.map": "/tr-portfolio/static/js/2.042ca243.chunk.js.map",
+    "static/js/2.6cfa44e5.chunk.js": "/tr-portfolio/static/js/2.6cfa44e5.chunk.js",
+    "static/js/2.6cfa44e5.chunk.js.map": "/tr-portfolio/static/js/2.6cfa44e5.chunk.js.map",
     "static/js/3.89028cf0.chunk.js": "/tr-portfolio/static/js/3.89028cf0.chunk.js",
     "static/js/3.89028cf0.chunk.js.map": "/tr-portfolio/static/js/3.89028cf0.chunk.js.map",
     "index.html": "/tr-portfolio/index.html",
-    "static/css/main.c24e24c8.chunk.css.map": "/tr-portfolio/static/css/main.c24e24c8.chunk.css.map",
-    "static/js/2.042ca243.chunk.js.LICENSE.txt": "/tr-portfolio/static/js/2.042ca243.chunk.js.LICENSE.txt",
+    "static/css/main.67ff4acc.chunk.css.map": "/tr-portfolio/static/css/main.67ff4acc.chunk.css.map",
+    "static/js/2.6cfa44e5.chunk.js.LICENSE.txt": "/tr-portfolio/static/js/2.6cfa44e5.chunk.js.LICENSE.txt",
     "static/media/card-form.8ad14a9c.png": "/tr-portfolio/static/media/card-form.8ad14a9c.png",
     "static/media/contact.c1fb8da1.png": "/tr-portfolio/static/media/contact.c1fb8da1.png",
     "static/media/crypto.17e3ae58.png": "/tr-portfolio/static/media/crypto.17e3ae58.png",
@@ -19,14 +19,14 @@
     "static/media/facebook.695d91a5.png": "/tr-portfolio/static/media/facebook.695d91a5.png",
     "static/media/media.4d070dbc.png": "/tr-portfolio/static/media/media.4d070dbc.png",
     "static/media/photo.67940df3.jpg": "/tr-portfolio/static/media/photo.67940df3.jpg",
-    "static/media/resume_Tred.1489f491.pdf": "/tr-portfolio/static/media/resume_Tred.1489f491.pdf",
+    "static/media/resume_Tred.2f22f2b1.pdf": "/tr-portfolio/static/media/resume_Tred.2f22f2b1.pdf",
     "static/media/ufoLogo.21d991ca.png": "/tr-portfolio/static/media/ufoLogo.21d991ca.png",
     "static/media/ufoLogoBg.f1b05a77.png": "/tr-portfolio/static/media/ufoLogoBg.f1b05a77.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fbb1303d.js",
-    "static/js/2.042ca243.chunk.js",
-    "static/css/main.c24e24c8.chunk.css",
-    "static/js/main.cdba3992.chunk.js"
+    "static/js/2.6cfa44e5.chunk.js",
+    "static/css/main.67ff4acc.chunk.css",
+    "static/js/main.bb2caf4d.chunk.js"
   ]
 }
