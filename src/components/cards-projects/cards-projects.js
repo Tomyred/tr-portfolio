@@ -18,7 +18,7 @@ function cardsprojects() {
 
         <div className="card">
             <a
-              href="https://sharp-booth-c9984b.netlify.app/rates"
+              href="https://sharp-booth-c9984b.netlify.app"
               target="_blank"
               rel="noreferrer"
             >
