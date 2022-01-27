@@ -3,6 +3,7 @@ import media from "../../assets/images/media.png";
 import facebook from "../../assets/images/facebook.png";
 import cardForm from "../../assets/images/card-form.png";
 import crypto from "../../assets/images/crypto.png";
+import scraping from "../../assets/images/scraping.png";
 import darkMode from "../../assets/images/dark-mode.png";
 import "./cards-projects.css";
 import Contact from "../Contact/Contact";
@@ -13,6 +14,19 @@ function cardsprojects() {
       <div className="component-container" id="cards">
         <h2>Some of my projects</h2>
         <div className="cards-container">
+        <div className="card">
+            <a
+              href="https://zealous-panini-b0ab67.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img src={scraping} alt="scraping" />
+              <h4>Web-scrapping-app</h4>
+              <p>
+                A web scraping application that takes data from Argentine football teams
+              </p>
+            </a>
+          </div>
           <div className="card">
             <a
               href="https://tomyred.github.io/dinamic-card-form/"
