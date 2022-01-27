@@ -5,6 +5,7 @@ import cardForm from "../../assets/images/card-form.png";
 import crypto from "../../assets/images/crypto.png";
 import scraping from "../../assets/images/scraping.png";
 import darkMode from "../../assets/images/dark-mode.png";
+import parkinglot from "../../assets/images/parkinglot.png";
 import "./cards-projects.css";
 import Contact from "../Contact/Contact";
 
@@ -14,6 +15,21 @@ function cardsprojects() {
       <div className="component-container" id="cards">
         <h2>Some of my projects</h2>
         <div className="cards-container">
+
+        <div className="card">
+            <a
+              href="https://sharp-booth-c9984b.netlify.app/rates"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img src={parkinglot} alt="parkinglot" />
+              <h4>Template App</h4>
+              <p>
+               A scalable template app that can be used for a multitude of purposes
+              </p>
+            </a>
+          </div>
+
         <div className="card">
             <a
               href="https://zealous-panini-b0ab67.netlify.app/"
