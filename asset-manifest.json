@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tr-portfolio/static/css/main.67ff4acc.chunk.css",
-    "main.js": "/tr-portfolio/static/js/main.bb2caf4d.chunk.js",
-    "main.js.map": "/tr-portfolio/static/js/main.bb2caf4d.chunk.js.map",
+    "main.js": "/tr-portfolio/static/js/main.892feda1.chunk.js",
+    "main.js.map": "/tr-portfolio/static/js/main.892feda1.chunk.js.map",
     "runtime-main.js": "/tr-portfolio/static/js/runtime-main.fbb1303d.js",
     "runtime-main.js.map": "/tr-portfolio/static/js/runtime-main.fbb1303d.js.map",
     "static/js/2.6cfa44e5.chunk.js": "/tr-portfolio/static/js/2.6cfa44e5.chunk.js",
@@ -20,6 +20,7 @@
     "static/media/media.4d070dbc.png": "/tr-portfolio/static/media/media.4d070dbc.png",
     "static/media/photo.67940df3.jpg": "/tr-portfolio/static/media/photo.67940df3.jpg",
     "static/media/resume_Tred.2f22f2b1.pdf": "/tr-portfolio/static/media/resume_Tred.2f22f2b1.pdf",
+    "static/media/scraping.deaf81fe.png": "/tr-portfolio/static/media/scraping.deaf81fe.png",
     "static/media/ufoLogo.21d991ca.png": "/tr-portfolio/static/media/ufoLogo.21d991ca.png",
     "static/media/ufoLogoBg.f1b05a77.png": "/tr-portfolio/static/media/ufoLogoBg.f1b05a77.png"
   },
@@ -27,6 +28,6 @@
     "static/js/runtime-main.fbb1303d.js",
     "static/js/2.6cfa44e5.chunk.js",
     "static/css/main.67ff4acc.chunk.css",
-    "static/js/main.bb2caf4d.chunk.js"
+    "static/js/main.892feda1.chunk.js"
   ]
 }
