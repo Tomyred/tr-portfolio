@@ -25,7 +25,7 @@ function cardsprojects() {
               <img src={parkinglot} alt="parkinglot" />
               <h4>Template App</h4>
               <p>
-               A scalable template app that can be used for a multitude of purposes
+               A scalable template app that can be used for a multitude of purposes made with MERN stack technologies
               </p>
             </a>
           </div>
