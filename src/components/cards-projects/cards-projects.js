@@ -17,7 +17,7 @@ function cardsprojects() {
                 <div className="cards-container">
                     <div className="card">
                         <a
-                            href="https://sharp-booth-c9984b.netlify.app"
+                            href="https://infocoop.netlify.app/"
                             target="_blank"
                             rel="noreferrer"
                         >
