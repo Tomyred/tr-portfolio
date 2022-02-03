@@ -5,7 +5,7 @@ import './Frontpage.css';
 
 import ufoLogo from'./../assets/images/ufoLogo.png'
 import ufoLogoBg from'./../assets/images/ufoLogoBg.png'
-import Resume from'./../assets/docs/resume_Tred.pdf'
+import Resume from'./../assets/docs/resume-Tomás_Rojo.pdf'
 
 import Main from './Main/Main'
 import Aboutme from './about-me/Aboutme.js'
