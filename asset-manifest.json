@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tr-portfolio/static/css/main.67ff4acc.chunk.css",
-    "main.js": "/tr-portfolio/static/js/main.6003153a.chunk.js",
-    "main.js.map": "/tr-portfolio/static/js/main.6003153a.chunk.js.map",
+    "main.js": "/tr-portfolio/static/js/main.0833dcd5.chunk.js",
+    "main.js.map": "/tr-portfolio/static/js/main.0833dcd5.chunk.js.map",
     "runtime-main.js": "/tr-portfolio/static/js/runtime-main.fbb1303d.js",
     "runtime-main.js.map": "/tr-portfolio/static/js/runtime-main.fbb1303d.js.map",
     "static/js/2.6cfa44e5.chunk.js": "/tr-portfolio/static/js/2.6cfa44e5.chunk.js",
@@ -18,6 +18,7 @@
     "static/media/dark-mode.54151e0e.png": "/tr-portfolio/static/media/dark-mode.54151e0e.png",
     "static/media/facebook.695d91a5.png": "/tr-portfolio/static/media/facebook.695d91a5.png",
     "static/media/media.4d070dbc.png": "/tr-portfolio/static/media/media.4d070dbc.png",
+    "static/media/nodo20.4f4ca36a.png": "/tr-portfolio/static/media/nodo20.4f4ca36a.png",
     "static/media/photo.67940df3.jpg": "/tr-portfolio/static/media/photo.67940df3.jpg",
     "static/media/resume-Tomás_Rojo.e5f7a90c.pdf": "/tr-portfolio/static/media/resume-Tomás_Rojo.e5f7a90c.pdf",
     "static/media/scraping.deaf81fe.png": "/tr-portfolio/static/media/scraping.deaf81fe.png",
@@ -28,6 +29,6 @@
     "static/js/runtime-main.fbb1303d.js",
     "static/js/2.6cfa44e5.chunk.js",
     "static/css/main.67ff4acc.chunk.css",
-    "static/js/main.6003153a.chunk.js"
+    "static/js/main.0833dcd5.chunk.js"
   ]
 }
