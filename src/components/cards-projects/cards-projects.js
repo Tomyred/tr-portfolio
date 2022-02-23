@@ -5,7 +5,7 @@ import cardForm from "../../assets/images/card-form.png";
 import crypto from "../../assets/images/crypto.png";
 import scraping from "../../assets/images/scraping.png";
 import darkMode from "../../assets/images/dark-mode.png";
-import parkinglot from "../../assets/images/parkinglot.png";
+import nodo20 from "../../assets/images/nodo20.png";
 import "./cards-projects.css";
 import Contact from "../Contact/Contact";
 
@@ -17,11 +17,11 @@ function cardsprojects() {
                 <div className="cards-container">
                     <div className="card">
                         <a
-                            href="https://infocoop.netlify.app/"
+                            href="https://nodo-ruta20.netlify.app"
                             target="_blank"
                             rel="noreferrer"
                         >
-                            <img src={parkinglot} alt="parkinglot" />
+                            <img src={nodo20} alt="parkinglot" />
                             <h4>Template App</h4>
                             <p>
                                 A scalable template app that can be used for a
